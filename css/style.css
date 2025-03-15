@@ -602,6 +602,8 @@ a:focus {
 /*team section */
 .team_section {
   text-align: center;
+  /* display: flex;
+  justify-content: center; */
   background-color: #00204a;
   color: #ffffff;
 }
@@ -615,6 +617,7 @@ a:focus {
 .team_section .team_container {
   padding: 0 15px;
 }
+
 
 .team_section .team_container .box {
   padding: 35px 0 0 0;
